@@ -1,0 +1,156 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 71.1% | Memory Usage: 66.9%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 11.8% | Memory Usage: 67.4%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 17.2% | Memory Usage: 66.9%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 11.6% | Memory Usage: 66.8%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 11.6% | Memory Usage: 66.7%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 10.4% | Memory Usage: 67.1%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 10.0% | Memory Usage: 66.8%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 10.1% | Memory Usage: 67.1%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 74.6% | Memory Usage: 68.5%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 44.3% | Memory Usage: 68.5%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 25.2% | Memory Usage: 68.5%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 26.4% | Memory Usage: 68.5%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 24.6% | Memory Usage: 68.5%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 26.5% | Memory Usage: 68.4%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 26.9% | Memory Usage: 68.5%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 28.7% | Memory Usage: 68.6%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 686
+INFO:root:CPU Usage: 23.7% | Memory Usage: 68.6%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 26.5% | Memory Usage: 68.6%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 67.9% | Memory Usage: 68.4%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 21.5% | Memory Usage: 68.4%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 26.3% | Memory Usage: 68.5%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 22.6% | Memory Usage: 68.4%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 27.8% | Memory Usage: 69.4%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 21.1% | Memory Usage: 69.4%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 696
+INFO:root:CPU Usage: 35.8% | Memory Usage: 70.6%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 34.4% | Memory Usage: 69.1%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 88.3% | Memory Usage: 70.0%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 20.9% | Memory Usage: 70.0%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 23.5% | Memory Usage: 68.4%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 24.1% | Memory Usage: 68.4%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 23.6% | Memory Usage: 68.4%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 55.4% | Memory Usage: 68.8%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 20.5% | Memory Usage: 68.8%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 18.7% | Memory Usage: 68.8%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 18.9% | Memory Usage: 68.8%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 18.5% | Memory Usage: 68.8%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 19.0% | Memory Usage: 68.8%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 18.0% | Memory Usage: 68.8%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 17.7% | Memory Usage: 68.8%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 20.6% | Memory Usage: 68.5%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 16.2% | Memory Usage: 68.5%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 18.7% | Memory Usage: 68.5%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 18.1% | Memory Usage: 68.5%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 18.7% | Memory Usage: 68.5%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 32.2% | Memory Usage: 71.3%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 29.8% | Memory Usage: 68.3%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 22.9% | Memory Usage: 68.0%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 23.6% | Memory Usage: 68.0%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 683
+INFO:root:CPU Usage: 27.6% | Memory Usage: 68.0%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 18.8% | Memory Usage: 68.0%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 32.2% | Memory Usage: 68.0%
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.tfl.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.tfl.gov.uk:443 "GET /StopPoint/490011922E/Arrivals HTTP/1.1" 200 None
+INFO:root:CPU Usage: 23.2% | Memory Usage: 68.1%

@@ -31,25 +31,17 @@ while True:
         time = str(datetime.now().strftime("%H:%M"))
 
         #get bus departure data from get_data module
-        try:
-            from get_data import get_bus_data
-            departure_list = get_bus_data()
-            # Ensure departure_list always has 3 elements with 4 sub-elements each
-            while len(departure_list) < 3:
-                departure_list.append([''] * 4)  # Append empty sub-lists if necessary
-                # If there are fewer than 4 elements in any sub-list, extend it with empty strings
-                for sublist in departure_list:
+        from get_data import get_bus_data
+        departure_list = get_bus_data()
+        # Ensure departure_list always has 3 elements with 4 sub-elements each
+        if len(departure_list) < 3:
+            departure_list.append([''] * 4)  # Append empty sub-lists if necessary
+            # If there are fewer than 4 elements in any sub-list, extend it with empty strings
+            for sublist in departure_list:
                     while len(sublist) < 4:
                         sublist.append('')
-        except Exception as e:
-            logging.exception("An error occurred while fetching bus data:")
-            print("An error occurred:", str(e))
-            print("Waiting for 1 minute before rerunning...")
-            with canvas(device) as draw:
-                draw.multiline_text((0, 0),"An error occurred:", fill="white")
-                draw.multiline_text((0, 15),str(e), fill="white")
-                draw.multiline_text((0, 45),"Waiting for 1 minute before getting data from TfL", fill="white")
-            sleep(60)  # Wait for 1 minute before rerunning
+        else:
+            pass
 
         with canvas(device) as draw:
             #draw.rectangle(device.bounding_box, outline="white", fill="black")
@@ -77,7 +69,19 @@ while True:
 
     except Exception as e:
         # Log detailed error messages
-        logging.exception("An error occurred:")
-        # Retry mechanism for transient errors
-        with suppress(Exception):
-            sleep(60)  # Wait for 1 minute before retrying
+        #getting the current time
+        time_log= str(datetime.now())
+        logging.exception(f"An error occurred while fetching bus data at {time_log}:")
+        # Monitor system resources
+        cpu_percent = psutil.cpu_percent()
+        memory_percent = psutil.virtual_memory().percent
+        logging.info(f"CPU Usage: {cpu_percent}% | Memory Usage: {memory_percent}%")
+        
+        print("An error occurred:", str(e))
+        print("Waiting for 1 minute before rerunning...")
+
+
+        with canvas(device) as draw:
+            draw.multiline_text((0, 0),"An error occurred:", fill="white")
+            draw.multiline_text((0, 45),"Waiting for 1 minute before getting data from TfL", fill="white")
+        sleep(60)  # Wait for 1 minute before rerunning
